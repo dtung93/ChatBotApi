@@ -1,0 +1,88 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": [
+        "hey",
+        "Hello",
+        "Hi",
+        "What's up?",
+        "Good Morning",
+        "Good Evening",
+        "Good Afternoon",
+        "How is it going?",
+        "Hey! How are you?"
+      ],
+      "responses": [
+        "Hello! How can I help you?",
+        "Hi! What can I do for you?",
+        "Greetings, human!",
+        "Hey there!"
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "what's your name?",
+        "can you tell me your name?",
+        "your name is...?",
+        "what should I call you?",
+        "and you are...?",
+        "what do I call you?",
+        "who are you?"
+      ],
+      "responses": [
+        "Hello! I am a chatbot, here to help you with anything!",
+        "Hi! Call me a chatbot, I'm happy to help you with anything",
+        "I'm a chatbot that was programmed to assist you"
+      ]
+    },
+    {
+      "tag": "age",
+      "patterns": [
+        "what's your age?",
+        "can you tell me your age?",
+        "how old are you?",
+        " how long have you lived?"
+      ],
+      "responses": [
+        "I was born in 2023, by mr Tung"
+      ]
+    },
+    {
+      "tag": "facts",
+      "patterns": [
+        "facts",
+        " news",
+        "interesting",
+        " do you know"
+      ],
+      "responses": [
+        "Competitive art used to be in the Olympics",
+        "A chef's hat has exactly 100 pleats.",
+        "'OMG' usage can be traced back to 1917",
+        "Some cats are actually allergic to humans",
+        "The majority of your brain is fat",
+        "Oranges aren't naturally occurring fruits",
+        "High heels were originally worn by men",
+        "Stop signs used to be yellow",
+        "New York was briefly named 'New Orange'",
+        "There was a successful Tinder match in Antarctica in 2014",
+        "Most wasabi we eat in the U.S. isn't really wasabi",
+        "There is a fruit called black sapote that tastes like chocolate pudding",
+        "Too much water can kill you",
+        "The hottest temperature ever recorded on Earth was 2 billion degrees kelvin",
+        "The moon is (slowly) slowing the Earth's rotation",
+        "You might be drinking water that is older than the solar system",
+        "Queen Elizabeth II is a trained mechanic",
+        "Tree rings get wider during wet years",
+        "Dolphins have names for one another",
+        "Sea otters hold hands while they sleep",
+        "Weeds can be healthy",
+        "And the French word for dandelion refers to a bodily function",
+        "Giant squids have the largest eyes of any animal on Earth",
+        "Parrots have the power of reason"
+      ]
+    }
+  ]
+}
